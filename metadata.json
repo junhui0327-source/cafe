@@ -1,0 +1,6 @@
+{
+  "name": "바이브 카페 (Vibe Cafe) - 주문서",
+  "description": "따뜻한 감성의 바이브 카페 온라인 주문서 및 Supabase 연동 지원 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
